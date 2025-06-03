@@ -2,6 +2,4 @@
 @tailwind components;
 @tailwind utilities;
 
-@plugin "daisyui" {
-    themes: light --default, dark --prefersdark, fantasy;
-  }
+/* DaisyUI theme configuration is handled in tailwind.config.js */
